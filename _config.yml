@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Nomad Learner의  블로그
+title:               Nomad Learner blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://ym109.github.io/
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "Nomad Learner의 블로그"
+tagline:             "Nomad Learner의 blog"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Nomad Learner의 블로그  입니다
+  
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
