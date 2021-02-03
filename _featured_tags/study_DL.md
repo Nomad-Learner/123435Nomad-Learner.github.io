@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: GITHUBPAGE
-slug: githubpage
+title: Deep-Learning
+slug: DL
 category: study
 menu: false
 order: 3
